@@ -1,0 +1,22 @@
+{
+  "name": "@digidex/token-lists",
+  "version": "1.0.284",
+  "description": "Digichain Dex System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lists"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digidex/digidex-token-lists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigiDex/digidex-token-lists/issues"
+  },
+  "homepage": "https://github.com/DigiDex/digidex-token-lists#readme"
+}

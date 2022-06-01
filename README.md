@@ -1,2 +1,1 @@
-# TokenList
- TokenList Digichain
+# digidex-token-lists
